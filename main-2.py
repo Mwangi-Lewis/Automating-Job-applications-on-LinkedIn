@@ -5,8 +5,8 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 import time
 
-ACCOUNT_EMAIL = "smwangilewis@gmail.com"
-ACCOUNT_PASSWORD = "aebi wdxy jmsr xzza"
+ACCOUNT_EMAIL = "Your email address"
+ACCOUNT_PASSWORD = "your email password"
 PHONE = "+254723089244"
 
 def abort_application():
