@@ -7,7 +7,7 @@ import time
 
 ACCOUNT_EMAIL = "Your email address"
 ACCOUNT_PASSWORD = "your email password"
-PHONE = "+254723089244"
+PHONE = "Your phone number"
 
 def abort_application():
     # Click Close Button
